@@ -1,0 +1,20 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "automation framework with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Automation",
+    "Framework",
+    "Cypress",
+    "Dashboard"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
