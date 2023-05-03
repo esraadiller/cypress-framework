@@ -4,7 +4,9 @@
   "description": "automation framework with cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:update-snapshots": "cypress run --env updateSnapshots=true"
   },
   "keywords": [
     "Automation",
